@@ -11,6 +11,10 @@
 ### 🎨 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CR0R079&layout=pie&theme=tokyonight)
 
+### 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CR0R079&layout=compact&theme=transparent&hide_border=true&card_width=400)
+
+
 
 ## 📫 Contáctame  
 - 📧 Email: trex4vi@gmail.com  
