@@ -8,6 +8,9 @@
 - 💡 Interesado en **Big Data y Desarrollo Web**  
 - ⚡ Fun fact: Me encanta automatizar tareas y optimizar procesos  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+
 ## 🛠️ Tecnologías y Herramientas  
 - **Lenguajes:** C++, C#, Python, SQL 
 - **Frontend:** Angular, HTML, CSS 
