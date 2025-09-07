@@ -8,10 +8,8 @@
 - 💡 Interesado en **Big Data y Desarrollo Web**  
 - ⚡ Fun fact: Me encanta automatizar tareas y optimizar procesos  
 
-### 🎨 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CR0R079&layout=pie&theme=tokyonight)
+### 📊 Lenguajes que más uso:
 
-### 📊 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CR0R079&layout=compact&theme=transparent&hide_border=true&card_width=400)
 
 
