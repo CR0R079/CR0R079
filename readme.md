@@ -3,10 +3,10 @@
 💻 Desarrollador apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras.  
 
 ## 🚀 Sobre mí  
-- 🔭 Actualmente trabajando en proyectos de **Frontend / Backend**  
-- 🌱 Aprendiendo **Angular, Html**  
-- 💡 Interesado en **Big Data y Desarrollo Web**  
-- ⚡ Fun fact: Me encanta automatizar tareas y optimizar procesos  
+- 🔭 Actualmente trabajando en proyectos Académicos. 
+- 🌱 Aprendiendo a como construir mi Sistema mental.  
+- 💡 Interesado en **SQL SERVER, C#, PYTHON y Desarrollo Web**  
+- ⚡ Dato: Me encanta automatizar tareas y optimizar procesos, desarrollar sistemas, webs.
 
 ### 📊 Lenguajes que más uso:
 
